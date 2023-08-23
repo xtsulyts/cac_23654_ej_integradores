@@ -1,0 +1,1 @@
+"""3 escribir un programa que reciba una cadena de caracteres y devualva un diccionario con cada palabra  que contiene y la cantidad que aparece(frecuencia)"""

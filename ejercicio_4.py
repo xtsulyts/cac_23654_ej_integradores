@@ -1,0 +1,1 @@
+"""4 Escribir una función  que reciba una cadena de caracteres y devuelva un diccionario con cada palabra que reciba el diccionario generado con la función anterior y devuelva una tupla con la palabra mas repetida y su frecuencia"""
